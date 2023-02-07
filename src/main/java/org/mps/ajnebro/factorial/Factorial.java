@@ -1,6 +1,12 @@
 package org.mps.ajnebro.factorial;
 
-
+/*
+ *Class providing a method to compute the factorial of an integer number
+ *
+ * git checkout para cambiarte de una rama a otra
+ * git commit -am "..."
+ * git merge nombreRama -> mezcla las ramas
+ */
 public class Factorial {
     public int compute(int value){
         int result;
